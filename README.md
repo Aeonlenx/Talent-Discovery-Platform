@@ -55,7 +55,8 @@ Advanced Auth: Implemented social logins (Google, Facebook, LinkedIn), OTP verif
 
 🎯 This project aims to digitize the consulting process, fostering an effective connection between users and experts.
 
-🛡️ **Disclaimer**  
+🛡️ **Disclaimer** 
+This is an ongoing project.
 This project is part of a company-owned internal system.
 The source code and full project are not publicly available.
 This repository and README exist solely to demonstrate my personal contributions and experience during the development process, without disclosing any proprietary code, sensitive information, or the full project's business logic.
@@ -124,6 +125,7 @@ Gelişmiş Auth: Google, Facebook, LinkedIn gibi sosyal girişler; OTP doğrulam
 
 
 🛡️ **Disclaimer**  
+Bu devam eden bir projedir.
 Bu proje, şirkete ait dahili bir sistemin parçasıdır.
 Tüm kaynak kodu ve proje herkese açık değildir.
 Bu depo ve README dosyası, geliştirme sürecindeki kişisel katkılarımı ve deneyimimi, herhangi bir tescilli kodu, hassas bilgiyi veya projenin tam iş mantığını ifşa etmeksizin yalnızca göstermek amacıyla bulunmaktadır.
